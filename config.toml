@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Hello World"
+title = "Hugo Blog"
 
 [taxonomies]
   tag = "tags"
