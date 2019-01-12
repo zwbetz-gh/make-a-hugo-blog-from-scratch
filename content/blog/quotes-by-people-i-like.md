@@ -20,19 +20,3 @@ Faithless is he that says farewell when the road darkens.
 {{% bootstrap-blockquote author="Marcus Aurelius" %}}
 Waste no more time arguing about what a good man should be. Be one.
 {{% /bootstrap-blockquote %}}
-
-{{% bootstrap-blockquote author="Carl Jung" %}}
-The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.
-{{% /bootstrap-blockquote %}}
-
-{{% bootstrap-blockquote author="C.S. Lewis" %}}
-Some day you will be old enough to start reading faily tales again. 
-{{% /bootstrap-blockquote %}}
-
-{{% bootstrap-blockquote author="J.R.R. Tolkien" %}}
-Little by little, one travels far. 
-{{% /bootstrap-blockquote %}}
-
-{{% bootstrap-blockquote author="Marcus Aurelius" %}}
-Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-{{% /bootstrap-blockquote %}}
