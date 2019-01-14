@@ -4,6 +4,8 @@
 
 **Demo:** https://make-a-hugo-blog-from-scratch.netlify.com/
 
+**Forum thread:** https://discourse.gohugo.io/t/make-a-hugo-blog-from-scratch/16375
+
 ## Run it locally
 
 1. [Install hugo](https://gohugo.io/getting-started/installing/)
