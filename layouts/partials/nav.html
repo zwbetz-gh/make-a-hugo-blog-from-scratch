@@ -1,6 +1,5 @@
 <div id="nav-border" class="container">
   <nav id="nav" class="nav justify-content-center">
-  {{ $currentPage := . }}
   {{ range .Site.Menus.main }} 
     {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre }}
     {{ $text := print $icon " " .Name | safeHTML }}
