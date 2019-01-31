@@ -1,6 +1,7 @@
 [build]
   publish = "public"
-  command = "hugo --gc --baseURL https://make-a-hugo-blog-from-scratch.netlify.com/"
+  command = "hugo --gc"
 
 [build.environment]
   HUGO_VERSION = "0.53"
+  HUGO_BASEURL = "https://make-a-hugo-blog-from-scratch.netlify.com/"
