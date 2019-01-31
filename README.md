@@ -1,5 +1,7 @@
 # Make a Hugo blog from scratch
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53882522-ddef-46ec-b8b0-d1a2e4b8af5b/deploy-status)](https://app.netlify.com/sites/make-a-hugo-blog-from-scratch/deploys)
+
 **Tutorial:** https://zwbetz.com/make-a-hugo-blog-from-scratch/
 
 **Demo:** https://make-a-hugo-blog-from-scratch.netlify.com/
