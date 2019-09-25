@@ -3,5 +3,5 @@
   command = "hugo --gc"
 
 [build.environment]
-  HUGO_VERSION = "0.57.2"
+  HUGO_VERSION = "0.58.3"
   HUGO_BASEURL = "https://make-a-hugo-blog-from-scratch.netlify.com/"
