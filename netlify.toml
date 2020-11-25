@@ -1,7 +1,12 @@
 [build]
   publish = "public"
-  command = "hugo --gc"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.58.3"
-  HUGO_BASEURL = "https://make-a-hugo-blog-from-scratch.netlify.com/"
+  HUGO_BASEURL = "https://make-a-hugo-blog-from-scratch.netlify.app"
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "*"
