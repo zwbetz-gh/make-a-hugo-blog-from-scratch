@@ -1,5 +1,5 @@
-{{ $js := "js/feather.min.js" | absURL }}
+{{ $js := "js/feather.min.js" | relURL }}
 <script src="{{ $js }}"></script>
 <script>
-  feather.replace()
+  feather.replace();
 </script>

@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   {{ hugo.Generator }}
-  {{ $css := "css/bootstrap.min.css" | absURL }}
+  {{ $css := "css/bootstrap.min.css" | relURL }}
   <link rel="stylesheet" href="{{ $css }}">
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
