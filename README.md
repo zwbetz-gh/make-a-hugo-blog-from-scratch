@@ -4,7 +4,7 @@
 
 **Tutorial:** https://zwbetz.com/make-a-hugo-blog-from-scratch/
 
-**Demo:** https://make-a-hugo-blog-from-scratch.netlify.com/
+**Demo:** https://make-a-hugo-blog-from-scratch.netlify.app/
 
 **Forum thread:** https://discourse.gohugo.io/t/make-a-hugo-blog-from-scratch/16375
 
